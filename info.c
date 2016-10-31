@@ -23,7 +23,9 @@ void info(char* fp){
 	} else {
 		strcpy(a, "GB");
 		s = s%1000000000;
-	} 
+	}
+
+	
 
 
 
